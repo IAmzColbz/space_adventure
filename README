@@ -1,0 +1,6 @@
+# Space Adventure
+
+This is a remake of the original python space adventure game written entirely in rust instead and with a bit more development experience under my belt.
+Though I'm still a beginner at rust so I have decided to follow a basic outline of the tutorial from https://www.riskpeep.com/2022/08/make-text-adventure-game-rust-1.html.
+
+Frankly anything I write will be better than whatever that python script was. Good god it was bad. Worked, but terrible.
